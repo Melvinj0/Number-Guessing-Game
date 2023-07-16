@@ -1,0 +1,15 @@
+* {
+    font-family: "Times New Roman", Times, serif;
+}
+
+button:hover {
+    background-color: aliceblue;
+    color: black;
+    width: 25%;
+    transition: all 0.3s;
+    box-shadow: 5px 5px 5px black;
+}
+
+#container {
+    box-shadow: 10px 10px 10px rgb(94, 123, 203);
+}
